@@ -1,0 +1,19 @@
+{
+  "name": "backyoutube",
+  "version": "1.0.0",
+  "description": "Aplicaciion para proveer videos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "videos"
+  ],
+  "author": "Angie",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
